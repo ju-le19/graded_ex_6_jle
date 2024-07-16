@@ -1,6 +1,6 @@
 Package: package.jle
 Type: Package
-Title: R Package for training, evaluating and predicting classifcation models.
+Title: R Package for training, evaluating and predicting classifcation models
 Version: 0.1.0
 Author: Justin Le [aut, cre]
 Maintainer: Justin Le <lej@cip.ifi.lmu.de>
